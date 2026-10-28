@@ -34,8 +34,8 @@ Networkwalks browser-based labs
 
 **Focus:** Rebuild a conversation and inspect what was sent.
 
-**Score:** _Add score_  
-**Screenshot:** _Add screenshot_
+**Score:** 90 
+**Screenshot:**  <img width="1366" height="768" alt="Screenshot_2026-10-28_10_53_02" src="https://github.com/user-attachments/assets/fb80d072-cd40-4c13-975d-83487653ef36" />
 
 ---
 
@@ -44,7 +44,7 @@ Networkwalks browser-based labs
 **Focus:** Practise following a TCP stream and locating hidden data.
 
 **Score:** 90 
-**Screenshot:** <img width="1366" height="768" alt="Screenshot_2026-10-28_10_53_02" src="https://github.com/user-attachments/assets/fb80d072-cd40-4c13-975d-83487653ef36" />
+**Screenshot:**<img width="1366" height="768" alt="Screenshot_2026-10-28_10_47_17" src="https://github.com/user-attachments/assets/c1f4c2f9-d0ab-4371-b41f-275ea86f0343" />
 
 
 
@@ -55,7 +55,7 @@ Networkwalks browser-based labs
 **Focus:** Identify usernames and passwords sent in clear text over HTTP.
 
 **Score:** _Add score_  
-**Screenshot:** <img width="1366" height="768" alt="Screenshot_2026-10-28_10_47_17" src="https://github.com/user-attachments/assets/c1f4c2f9-d0ab-4371-b41f-275ea86f0343" />
+**Screenshot:** 
 
 
 ---
