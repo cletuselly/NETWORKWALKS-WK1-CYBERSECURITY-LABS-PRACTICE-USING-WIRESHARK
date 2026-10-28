@@ -54,8 +54,9 @@ Networkwalks browser-based labs
 
 **Focus:** Identify usernames and passwords sent in clear text over HTTP.
 
-**Score:** _Add score_  
-**Screenshot:** 
+**Score:** 90
+**Screenshot:<img width="1366" height="768" alt="Screenshot_2026-10-28_10_43_21" src="https://github.com/user-attachments/assets/024f4aa7-808f-4b4b-948f-7a29220e091d" />
+
 
 
 ---
@@ -64,8 +65,9 @@ Networkwalks browser-based labs
 
 **Focus:** Spot repeated login attempts and identify who is guessing passwords.
 
-**Score:** _Add score_  
-**Screenshot:** _Add screenshot_
+**Score:** 100 
+**Screenshot:**<img width="1366" height="768" alt="Screenshot_2026-10-28_10_34_55" src="https://github.com/user-attachments/assets/5cd5a7e6-4c74-4be4-9e84-edc45585ed4b" />
+
 
 ---
 
@@ -73,8 +75,9 @@ Networkwalks browser-based labs
 
 **Focus:** Investigate a capture, review the call, and identify the scammer.
 
-**Score:** _Add score_  
-**Screenshot:** _Add screenshot_
+**Score:** 90  
+**Screenshot:** <img width="1366" height="768" alt="Screenshot_2026-10-28_10_28_34" src="https://github.com/user-attachments/assets/81daf477-1be6-414d-b943-bce6ba7d7a0e" />
+
 
 ## Skills Practised
 
