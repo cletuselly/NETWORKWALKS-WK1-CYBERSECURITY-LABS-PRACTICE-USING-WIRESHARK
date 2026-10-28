@@ -1,6 +1,19 @@
 # NETWORKWALKS-WK1-CYBERSECURITY-LABS-PRACTICE-USING-WIRESHARK
 **Networkwalks Week 1 Wireshark SOC labs: packet analysis practice, TCP stream inspection, HTTP security, brute-force detection, and VoIP investigation.**
 
+## Course Links
+
+[![Wireshark Labs](https://img.shields.io/badge/Networkwalks-Wireshark_Labs-2563EB?style=for-the-badge)](https://networkwalks.com/wireshark/)
+[![Identify Attacker IP](https://img.shields.io/badge/Lab_1-Identify_Attacker_IP-0F766E?style=for-the-badge)](https://networkwalks.com/wireshark-lab3/)
+[![Follow TCP Stream 1](https://img.shields.io/badge/Lab_2-Follow_TCP_Stream_1-0F766E?style=for-the-badge)](https://networkwalks.com/wireshark-lab4/)
+[![Follow TCP Stream 2](https://img.shields.io/badge/Lab_3-Follow_TCP_Stream_2-0F766E?style=for-the-badge)](https://networkwalks.com/wireshark-lab5/)
+[![HTTP Credentials](https://img.shields.io/badge/Lab_4-HTTP_Credentials-7C3AED?style=for-the-badge)](https://networkwalks.com/wireshark-lab6/)
+[![Brute Force Attacker](https://img.shields.io/badge/Lab_5-Brute_Force_Attacker-DC2626?style=for-the-badge)](https://networkwalks.com/wireshark-lab7/)
+[![Call Scammer](https://img.shields.io/badge/Lab_6-Call_Scammer-F59E0B?style=for-the-badge)](https://networkwalks.com/wireshark-lab8/)
+[![Submit Internship Work](https://img.shields.io/badge/Networkwalks-Internship_Submission-111827?style=for-the-badge)](https://networkwalks.com/submission/)
+
+
+
 
 A portfolio record of my Week 1 SOC project for the Networkwalks internship. This project involved six browser-based Wireshark labs focused on analyzing network traffic.
 
@@ -106,18 +119,4 @@ Networkwalks browser-based labs
 - Network traffic should only be tested or captured in environments you own or have permission to assess.
 - Screenshots and notes should be reviewed for passwords, tokens, personal information, and unrelated traffic before sharing.
 
-## Evidence
-
-Add screenshots for each lab in the corresponding section above. Before publishing, check that each image shows only information you are allowed to share and does not reveal credentials or other sensitive data.
-
-## Course Links
-
-- [Networkwalks Wireshark labs](https://networkwalks.com/wireshark/)
-- [Identify the Attacker’s IP](https://networkwalks.com/wireshark-lab3/)
-- [Follow TCP Stream 1](https://networkwalks.com/wireshark-lab4/)
-- [Follow TCP Stream, Part 2](https://networkwalks.com/wireshark-lab5/)
-- [HTTP Plain Text Credentials](https://networkwalks.com/wireshark-lab6/)
-- [Catch the Brute Force Attacker](https://networkwalks.com/wireshark-lab7/)
-- [Catch the Call Scammer](https://networkwalks.com/wireshark-lab8/)
-- [Internship submission page](https://networkwalks.com/submission/)
 
